@@ -7,14 +7,14 @@ the dataExtractionScraper.py file contains a web scraper that extracts data
 the dataAnalysisNLP.py file comntains code that does NLP 
 
 In analysis we do:
-      -Sentiment analysis - positive score,negative score and polarity,Subjectivity Score
-      -Analysis of Readability	-Fog index
-      -Average Number of Words Per Sentence	
-      -Complex Word Count	
-      -Word Count	
-      -Syllable Count Per Word	
-      -Personal Pronouns	
-      -Average Word Length
+      Sentiment analysis - positive score,negative score and polarity,Subjectivity Score
+      Analysis of Readability	-Fog index
+      Average Number of Words Per Sentence	
+      Complex Word Count	
+      Word Count	
+      Syllable Count Per Word	
+      Personal Pronouns	
+      Average Word Length
 
 Project Structure
 Input.xlsx: Input file containing articles and their corresponding URLs.
