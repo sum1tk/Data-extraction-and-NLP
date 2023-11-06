@@ -27,4 +27,4 @@ for i,URL in enumerate(URLs):
         print(f"HTTP Error {e.code}: {e.reason}")
         
         continue
-#114:URLs 114:scraped 2:HTTP Error 404
+
