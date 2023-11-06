@@ -1,4 +1,6 @@
 Data Extraction and NLP(Sentiment Analysis,Readability etc.) Test Assignment
+
+
 This repository contains the solution for the Data Extraction and NLP Test Assignment. The objective of this assignment is to extract textual data articles from a given URL and perform text analysis to compute various variables as explained in the provided documents.
 
 the dataExtractionScraper.py file contains a web scraper that extracts data 
